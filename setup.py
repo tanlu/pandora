@@ -23,7 +23,7 @@ setup(
     description='A command-line interface to ChatGPT',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/pengzhile/pandora',
+    url='https://github.com/tanlu/pandora',
     packages=find_packages('src'),
     package_dir={'pandora': 'src/pandora'},
     include_package_data=True,
@@ -39,8 +39,8 @@ setup(
         ]
     },
     project_urls={
-        'Source': 'https://github.com/pengzhile/pandora',
-        'Tracker': 'https://github.com/pengzhile/pandora/issues',
+        'Source': 'https://github.com/tanlu/pandora',
+        'Tracker': 'https://github.com/tanlu/pandora/issues',
     },
     classifiers=[
         'Development Status :: 5 - Production/Stable',
